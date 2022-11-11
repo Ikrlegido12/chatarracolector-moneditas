@@ -26,6 +26,24 @@ input.onPinPressed(TouchPin.P1, function () {
         # . . . #
         `)
 })
+/**
+ * Hecho por IkrlegidO
+ */
+/**
+ * ===================
+ */
+/**
+ * Chatarra Colector
+ */
+/**
+ * Moneditas
+ */
+/**
+ * ===================
+ */
+/**
+ * I.E.S. Bahía de Algeciras
+ */
 music.setBuiltInSpeakerEnabled(true)
 servos.P0.setAngle(90)
 basic.showLeds(`
@@ -36,9 +54,3 @@ basic.showLeds(`
     # . . . #
     `)
 music.playSoundEffect(music.builtinSoundEffect(soundExpression.sad), SoundExpressionPlayMode.UntilDone)
-// Hecho por IkrlegidO
-// ===================
-// Chatarra Colector
-// Moneditas
-// ===================
-// I.E.S. Bahía de Algeciras
